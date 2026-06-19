@@ -22,7 +22,7 @@ You'll be prompted for:
   3. Primary DNS / DNS 1 (default: 192.168.2.10)
   4. Secondary DNS / DNS 2 (default: same as DNS 1)
 
-https://github.com/fernando-granco/Gigahub-DNS-Bypass
+https://github.com/fernando-granco/Bell-Gigahub-Local-DNS
 """
 
 import hashlib
