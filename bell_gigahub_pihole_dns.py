@@ -40,7 +40,7 @@ def get_config():
     print("Bell Gigahub + Pi-hole DNS Setup")
     print("-" * 50)
 
-    router_ip = input("Router IP [192.168.2.1]: ").strip()
+    router_ip = input("Router IP [default 192.168.2.1]: ").strip()
     if not router_ip:
         router_ip = "192.168.2.1"
 
